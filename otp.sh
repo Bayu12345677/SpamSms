@@ -271,14 +271,14 @@ def: maintance(){
 	Tulis.str "${cy}";figlet -f slant "Script update";Tulis.str "${st}"
 	echo
 	Tulis.strN "${ku}[${me}•${ij}•${ku}]${st} Script this version has been a long time please immediately update this script"
-	Tulis.strN "${ku}[${me}•${ij}•${ku}]${st} update to $(curl -sL \"https://raw.githubusercontent.com/Bayu12345677/SpamOtp/main/files/vers.txt\")"
+	Tulis.strN "${ku}[${me}•${ij}•${ku}]${st} update to $(curl -sL \"https://raw.githubusercontent.com/Bayu12345677/SpamSms/main/files/vers.txt\")"
 	Tulis.strN "${ku}------------------------------------------------------------------------"
 	Tulis.strN "${ku}[${me}•${ij}•${ku}]${st} join grup : https://chat.whatsapp.com/GxUnM7xAJyU7A0YYcjpnL0"
 	Tulis.strN "${ku}[${me}•${ij}•${ku}]${st} command to update : make update if it has (cd .)"
 	echo
 }
 # fitur maintance 
-var git : "https://raw.githubusercontent.com/Bayu12345677/SpamOtp/main/files/vers.txt"
+var git : "https://raw.githubusercontent.com/Bayu12345677/SpamSms/main/files/vers.txt"
 
 if [[ "$(cat files/vers.txt)" == "$(curl -sL ${git})" ]]; then
 {
