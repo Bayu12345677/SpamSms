@@ -27,6 +27,10 @@ pip install -r r.txt
 python server.py
 ```
 
+
+![](https://github.com/Bayu12345677/SpamOtp/blob/main/img/Screenshot_20220228-183807~2.png)
+
+
 ketikan command di atas di session baru<br>
 jika sudah kembali ke session awal baru ketikan 
 
