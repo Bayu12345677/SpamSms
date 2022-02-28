@@ -28,7 +28,7 @@ python server.py
 ```
 
 ketikan command di atas di session baru<br>
-jika sudah baru ketikan 
+jika sudah kembali ke session awal baru ketikan 
 
 ```
 make run
