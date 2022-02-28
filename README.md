@@ -16,8 +16,8 @@ apt update
 apt full-upgrade
 apt install curl jq wget
 apt install git
-git clone https://github.com/Bayu12345677/SpamOtp/
-cd SpamOtp
+git clone https://github.com/Bayu12345677/SpamSms/
+cd SpamSms
 make setup
 ```
 
